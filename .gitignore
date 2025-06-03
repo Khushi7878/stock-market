@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+
+
+# Build output
+dist/
+build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific
+.vscode/
+.idea/
+
+# MongoDB dump files
+dump/
+
+# Coverage reports
+coverage/
+
+# React
+*.env.local
+*.env.development.local
+*.env.test.local
+*.env.production.local
